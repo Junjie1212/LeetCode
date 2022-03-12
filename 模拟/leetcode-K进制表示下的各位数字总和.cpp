@@ -7,6 +7,9 @@
 解释：34 (10 进制) 在 6 进制下表示为 54 。5 + 4 = 9 。
 */
 
+/*
+模拟-进制转换
+*/
 class Solution {
 public:
     int sumBase(int n, int k) {
